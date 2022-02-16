@@ -1,6 +1,9 @@
 # coding-write-effect-CSS-only
 A coding write effect, inspired by Kevin Powell, only using CSS.
 
+You can see the effect here:
+https://codepen.io/anti-duhring/pen/oNooYMR
+
 explaining the variables:
 
 The --typewriterSpeed is the speed of the animation, you can set as many seconds as you wan;
